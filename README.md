@@ -33,7 +33,7 @@
 
 
 ### ⚡ Github Stats
- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayan2809&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true&langs_count=8" alt="ayan2809" /></p>
+ <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayan2809&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true&langs_count=8" alt="ayan2809" /></p>
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayan2809&show_icons=true&locale=en&theme=radical&count_private=true" alt="ayan2809" /></p>
 
