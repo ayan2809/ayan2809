@@ -26,6 +26,7 @@
 - 🥅 2021 Goals: Contribute to Open Source projects and build some awesome projects
 - 💬 Ask me about C++, Assembly or Linux Distros
 - 📫 How to reach me: [Let's Connect here!](https://www.linkedin.com/in/ayan-sadhukhan-413471167/)
+- 📰 Signup for my Newsletter: [Click here!](https://stormy-cove-44362.herokuapp.com/)
 - ⚡ Fun fact: I'm INTJ-A
 
 <h3 align="left">Languages and Tools:</h3>
