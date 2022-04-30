@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<a href="https://twitter.com/caltrop29493061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caltrop29493061" height="30" width="40" /></a>
+<a href="https://twitter.com/ayannn01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayannn01" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10097593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10097593" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayan2809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayan2809" height="30" width="40" /></a>
 <a href="https://fb.com/ayansadhukhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayansadhukhan" height="30" width="40" /></a>
@@ -20,12 +20,12 @@
 ### I am a Software Dev pursuing my Undergrad in CSE
 
 - 🔭 I’m currently working on various projects and myself
-- 🌱 I’m an mobile developer and an avid competitive programmer
+- 🌱 I’m an web developer and an avid competitive programmer
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with Web Development
-- 🥅 2021 Goals: Contribute to Open Source projects and build some awesome projects
-- 💬 Ask me about C++, Assembly or Linux Distros
-- 📫 How to reach me: [Let's Connect here!](https://www.linkedin.com/in/ayan-sadhukhan-413471167/)
+- 🤔 I’m looking for help with React and Express
+- 🥅 2022 Goals: Contribute to Open Source projects and build some awesome projects
+- 💬 Ask me about C++, Linux Distros or NLP
+- 📫 How to reach me: [Let's Connect here!](https://www.linkedin.com/in/ayan-sadhukhan/)
 - 📰 Signup for my Newsletter: [Click here!](https://stormy-cove-44362.herokuapp.com/)
 - ⚡ Fun fact: I'm INTJ-A
 
