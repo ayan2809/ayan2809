@@ -17,13 +17,13 @@
 
 
 
-### I am a Software Dev pursuing my Undergrad in CSE
+### I am a Software Engineer @JP Morgan Chase
 
 - 🔭 I’m currently working on various projects and myself
-- 🌱 I’m an web developer and an avid competitive programmer
+- 🌱 I’m an full stack developer and an avid competitive programmer
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with React and Express
-- 🥅 2022 Goals: Contribute to Open Source projects and build some awesome projects
+- 🤔 I’m looking for help with LLM Models and Machine Learning
+- 🥅 2023 Goals: Contribute to Open Source projects and building some end to end projects
 - 💬 Ask me about C++, Linux Distros or NLP
 - 📫 How to reach me: [Let's Connect here!](https://www.linkedin.com/in/ayan-sadhukhan/)
 - 📰 Signup for my Newsletter: [Click here!](https://stormy-cove-44362.herokuapp.com/)
