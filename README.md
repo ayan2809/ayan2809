@@ -59,14 +59,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayan2809&theme=radical" alt="Profile Details" />
 </p>
 
-### 🧩 Competitive Programming
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/eZZoP?theme=dark&font=baloo" alt="LeetCode Stats" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/ayan2809" alt="Ayan's GitHub Contributions" />
-</p>
