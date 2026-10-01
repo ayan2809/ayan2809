@@ -38,12 +38,6 @@
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayan2809&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Ayan Sadhukhan" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayan2809&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan2809&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8&hide_border=true" height="180" alt="Top Languages" />
 </p>
@@ -57,9 +51,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayan2809&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayan2809&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayan2809&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayan2809&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayan2809&theme=radical" alt="Profile Details" />
+</p>
+
+### 🧩 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/eZZoP?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/ayan2809" alt="Ayan's GitHub Contributions" />
 </p>
