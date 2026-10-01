@@ -62,7 +62,7 @@
 ### 🧩 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/eZZoP?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/eZZoP?theme=dark&font=baloo" alt="LeetCode Stats" />
 </p>
 
 ### 📈 Contribution Graph
